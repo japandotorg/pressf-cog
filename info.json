@@ -1,0 +1,7 @@
+{
+    "author" : ["aikaterna"],
+    "install_msg" : "customized pressf cog",
+    "name" : "mypressfcog",
+    "short" : "pressf",
+    "description" : "press f to pay respects"
+}
